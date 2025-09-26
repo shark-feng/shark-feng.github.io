@@ -5050,6 +5050,9 @@ figure.highlight pre .javascript .function {
 .mermaid-wrap > svg {
   height: 100%;
 }
+pre > code.mermaid {
+  display: none;
+}
 .chartjs-container {
   display: -webkit-box;
   display: -moz-box;
